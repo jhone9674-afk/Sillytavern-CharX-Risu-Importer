@@ -118,6 +118,7 @@ Some very unusual or extremely custom RisuAI cards may still behave differently 
 
 ## Disclaimer
 
+Your Plugins must be enabled at Sillytavern to work.
 This project is a compatibility extension/patch for SillyTavern to improve support for RisuAI cards.  
 It is not an official release from the RisuAI team or the SillyTavern team.
 This Project is not out of possible bugs.
