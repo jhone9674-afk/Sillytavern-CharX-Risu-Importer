@@ -30,7 +30,7 @@ After installation, the importer appears in SillyTavern as the **pink arrow butt
 
 <img width="79" height="57" alt="image" src="https://github.com/user-attachments/assets/51e05d88-57ed-4065-aed3-f4290fa65ae8" />
 
-Use that button to import supported RisuAI cards.
+Use that button to import supported RisuAI CharX cards.
 
 ## Installation
 
