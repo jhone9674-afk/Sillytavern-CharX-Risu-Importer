@@ -1,5 +1,10 @@
 # ST-CharX Risu Importer
 
+<img width="1631" height="586" alt="image" src="https://github.com/user-attachments/assets/cf78d0ec-d1cc-417b-8ed9-fbf006652717" />
+
+<img width="1607" height="674" alt="{92F5094E-241E-48AE-B6DF-A76D1B63CFB4}" src="https://github.com/user-attachments/assets/8734297d-988c-4b82-a684-437cd4601c07" />
+
+
 Full RisuAI Character V3 / `.charx` support for SillyTavern.
 
 This project adds RisuAI-focused import and compatibility features to SillyTavern, so RisuAI characters can work much closer to how they work inside RisuAI itself.
