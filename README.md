@@ -2,7 +2,8 @@
 
 <img width="1631" height="586" alt="image" src="https://github.com/user-attachments/assets/cf78d0ec-d1cc-417b-8ed9-fbf006652717" />
 
-<img width="1607" height="674" alt="{92F5094E-241E-48AE-B6DF-A76D1B63CFB4}" src="https://github.com/user-attachments/assets/8734297d-988c-4b82-a684-437cd4601c07" />
+<img width="1647" height="882" alt="{E308501A-0C56-4742-93B5-EBEB677D1D34}" src="https://github.com/user-attachments/assets/f8051668-28ff-4a57-bce8-b283382cd35f" />
+
 
 
 Full RisuAI Character V3 / `.charx` support for SillyTavern.
